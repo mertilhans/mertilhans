@@ -5,7 +5,6 @@ Aktif olarak **C** ve **Python** dillerinde yazılım geliştiren bir yazılım 
 
 [**Portfolyo Web Sitem**](https://mertilhans.github.io/portfolio)
 
-![Mertilhan's Logo](https://mertilhans.github.io/portfolio/static/media/od_logo.0c8820165e5d4fd24e79.png) 
 
 ## :rocket: Kullanılan Teknolojiler
 Benim favori dillerim ve araçlarım:
