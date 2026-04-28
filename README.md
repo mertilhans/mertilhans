@@ -10,6 +10,7 @@ Aktif olarak **C** ve **Python** dillerinde yazılım geliştiren bir yazılım 
 Benim favori dillerim ve araçlarım:
 
 - **C**: Sistem programlaması ve performans odaklı projeler.
+- **C++** : Bellek manipülasyonu ve performans odaklı projeler.
 - **Python**: Veri analitiği, yapay zeka ve web geliştirme.
 
 
